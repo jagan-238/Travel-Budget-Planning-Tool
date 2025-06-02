@@ -8,11 +8,7 @@ Traveling can often lead to unexpected expenses. The **Travel Budget Planning To
 
 ## 🌐 Deployed App
 Frontend: [https://zesty-entremet-4ec3aa.netlify.app/](https://zesty-entremet-4ec3aa.netlify.app/)
-
-
-## 📹 Video Walkthroughs
-- **App Demo (1–3 min)**: [Link to video]
-- **Codebase Overview (1–5 min)**: [Link to video]
+github :  https://github.com/jagan-238/Travel-Budget-Planning-Tool/tree/main/TripTrack
 
 ## ✨ Features
 - 📝 **Expense Tracking** with date, description, amount, and category
@@ -47,13 +43,15 @@ Frontend: [https://zesty-entremet-4ec3aa.netlify.app/](https://zesty-entremet-4e
   Use a currency converter
   Collaborate on budgets
   Access on any device (mobile responsive)
+
+  Frontend: [https://zesty-entremet-4ec3aa.netlify.app/](https://zesty-entremet-4ec3aa.netlify.app/)
   <img width="920" alt="image" src="https://github.com/user-attachments/assets/5d9f04db-0a7b-4212-a4ee-c766c6ae1bd8" />
 
   🧱 Technology Stack
   The following technologies are used in this project:
   React.js
   Firebase
-  CSS
+  Html,css
   React Router DOM
   React Icons
   Lucide Icons
