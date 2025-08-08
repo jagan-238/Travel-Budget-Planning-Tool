@@ -7,8 +7,8 @@ Traveling can often lead to unexpected expenses. The **Travel Budget Planning To
 **Frontend**
 
 ## 🌐 Deployed App
-Frontend: [https://zesty-entremet-4ec3aa.netlify.app/](https://zesty-entremet-4ec3aa.netlify.app/)
-github :  https://github.com/jagan-238/Travel-Budget-Planning-Tool/tree/main/TripTrack
+Live: (https://zesty-entremet-4ec3aa.netlify.app/)
+
 
 ## ✨ Features
 - 📝 **Expense Tracking** with date, description, amount, and category
